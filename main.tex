@@ -1,5 +1,5 @@
 \documentclass[11pt]{article}
-
+\usepackage{amsmath,amssymb}
 \newcommand{\numpy}{{\tt numpy}}    % tt font for numpy
 
 \topmargin -.5in
@@ -24,11 +24,11 @@
 Curva de bezier de los puntos de control: $P_0(4,1)$, $P_1(28,48)$, $P_3(50,42)$, $P_4(40,5)$
 % ========== Just examples, please delete before submitting 
 Grafica:
-\begin{figure}
-\includegraphics[scale=25]{grafica1.png}
-\caption{Curva de bezier y puntos}
-\label{fig: grafica1}
-\end{figure}
+%\begin{figure}
+%%==\includegraphics[scale=25]{grafica1.png}
+%\caption{Curva de bezier y puntos}
+%\label{fig: grafica1}
+%\end{figure}
 \begin{equation}
     a^2 + b^2 = c^2.
 \end{equation}
@@ -38,31 +38,15 @@ Grafica:
     \mathbf{A} \mathbf{x} = \mathbf{b}.
 \end{equation}
 
-An example of a matrix \LaTeX:
-\begin{equation}
-    \mathbf{A} = \left(
-    \begin{array}{ccc}
-    3 & -1 & 2 \\ 	
-    0 & 1 & 2 \\ 
-    1 & 0 & -1 \\
-\end{array} 
-\right).  
-\end{equation}
-
-With a labeled equation such as the following:
-\begin{equation}
-    \label{accel}
-    \frac{d^2 x}{d t^2} = a
-\end{equation}
-you can referrer to the equation later. In equation \ref{accel} we defined acceleration.
-% ========== END examples
-
-
 \item
-Answer to question 2
-
+Grafica con segmento de recta $\overline{P_0 P_1}$, $\overline{P_1 P_2}$, $\overline{P_2 P_3}$
 % ========== Continue adding items as needed
 
+\item
+Demostración de tangente en $P_0$ pasa por $P_1$ y la recta tangente de  $P_3$ pasa por $P_2$
+
+\item 
+Demostración con letra \emph{C}
 \end{enumerate}
 
 \end{document}
