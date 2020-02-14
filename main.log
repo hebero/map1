@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.11)  13 FEB 2020 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.11)  14 FEB 2020 00:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -220,32 +220,33 @@ Missing character: There is no ³ in font cmr10!
 <LetraCC.png, id=1, 529.98pt x 528.97626pt>
 File: LetraCC.png Graphic file (type png)
 <use LetraCC.png>
-Package pdftex.def Info: LetraCC.png  used on input line 55.
+Package pdftex.def Info: LetraCC.png  used on input line 47.
 (pdftex.def)             Requested size: 142.26378pt x 141.99413pt.
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¡ in font cmr10!
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./LetraCC.png>] (./main.au
-x) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./LetraCC.png>] [2] (./mai
+n.aux) ) 
 Here is how much of TeX's memory you used:
- 2344 strings out of 494880
- 30777 string characters out of 6179601
- 83662 words of memory out of 5000000
- 5638 multiletter control sequences out of 15000+600000
- 11407 words of font info for 43 fonts, out of 8000000 for 9000
+ 2338 strings out of 494880
+ 30715 string characters out of 6179601
+ 85662 words of memory out of 5000000
+ 5635 multiletter control sequences out of 15000+600000
+ 10478 words of font info for 40 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  41i,6n,26p,271b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (1 page, 106482 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (2 pages, 99834 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 42 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
