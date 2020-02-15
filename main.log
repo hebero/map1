@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.11)  14 FEB 2020 00:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.11)  14 FEB 2020 19:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -213,40 +213,56 @@ Missing character: There is no Ã in font cmr12!
 Missing character: There is no ³ in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ± in font cmr12!
+<Ejercicio1.png, id=1, 556.0775pt x 555.07375pt>
+File: Ejercicio1.png Graphic file (type png)
+<use Ejercicio1.png>
+Package pdftex.def Info: Ejercicio1.png  used on input line 42.
+(pdftex.def)             Requested size: 142.26378pt x 142.00352pt.
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ³ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ³ in font cmr10!
-<LetraCC.png, id=1, 529.98pt x 528.97626pt>
+<LetraCC.png, id=3, 529.98pt x 528.97626pt>
 File: LetraCC.png Graphic file (type png)
 <use LetraCC.png>
-Package pdftex.def Info: LetraCC.png  used on input line 47.
+Package pdftex.def Info: LetraCC.png  used on input line 56.
 (pdftex.def)             Requested size: 142.26378pt x 141.99413pt.
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¡ in font cmr10!
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./LetraCC.png>] [2] (./mai
-n.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Ejercicio1.png> <./Letra
+CC.png>]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+ [2]
+[3] [4]
+<Cartan.png, id=27, 804.00375pt x 439.6425pt>
+File: Cartan.png Graphic file (type png)
+<use Cartan.png>
+Package pdftex.def Info: Cartan.png  used on input line 332.
+(pdftex.def)             Requested size: 569.05511pt x 311.16893pt.
+
+Overfull \hbox (63.16512pt too wide) in paragraph at lines 332--333
+ [][] 
+ []
+
+[5 <./Cartan.png>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2338 strings out of 494880
- 30715 string characters out of 6179601
- 85662 words of memory out of 5000000
- 5635 multiletter control sequences out of 15000+600000
+ 2349 strings out of 494880
+ 30879 string characters out of 6179601
+ 92662 words of memory out of 5000000
+ 5644 multiletter control sequences out of 15000+600000
  10478 words of font info for 40 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 41i,6n,26p,271b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (2 pages, 99834 bytes).
+ 41i,6n,26p,271b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (5 pages, 180692 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
